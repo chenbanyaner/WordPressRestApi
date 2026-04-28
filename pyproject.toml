@@ -1,6 +1,6 @@
 [project]
 name = "wordpress-rest-api"
-version = "0.1.2"
+version = "0.1.0"
 description = "WordPress REST API client"
 authors = [
     {name = "chenbanyaner", email = "833785@qq.com"},

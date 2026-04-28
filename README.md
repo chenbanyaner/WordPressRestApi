@@ -771,4 +771,4 @@ for i in range(0, len(users_to_create), CHUNK_SIZE):
 
 |                 微信支付                  |                  支付宝                   |
 | :---------------------------------------: | :---------------------------------------: |
-| <img src="./asserts/qr2.png" width="200"> | <img src="./asserts/qr1.png" width="200"> |
+| <img src="https://github.com/chenbanyaner/WordPressRestApi/raw/master/asserts/qr2.png" width="200"> | <img src="https://github.com/chenbanyaner/WordPressRestApi/raw/master/asserts/qr1.png" width="200"> |
